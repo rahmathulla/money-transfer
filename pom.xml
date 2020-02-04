@@ -22,7 +22,7 @@
 		<slf4j.version>1.7.12</slf4j.version>
 		<jooq.version>3.12.3</jooq.version>
 		<flyway.version>3.0</flyway.version>
-		<c3p0.vesion>0.9.5.2</c3p0.vesion>
+		<c3p0.vesion>0.9.5.4</c3p0.vesion>
 		<maven.compiler.plugin.version>3.3</maven.compiler.plugin.version>
 		<maven.shade.plugin.version>3.2.1</maven.shade.plugin.version>
 		<maven.properties.plugin.version>1.0.0</maven.properties.plugin.version>
